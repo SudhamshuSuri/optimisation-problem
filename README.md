@@ -1,5 +1,4 @@
 # optimisation-problem
-stuff things and death
 
 my incompetence in the field of human endeavours being put in spotlight by this project
 
@@ -10,5 +9,7 @@ my incompetence in the field of human endeavours being put in spotlight by this 
               
               
               last updated: 29/12/2022
-              proceed w caution->bad code inside
+              proceed w caution->bad code inside(2023 aug update --> code is fine author is not.)
               glasses recommended
+
+Contributors: Hiten Sachani, Sudhamshu Suri, Dr.P.Bhanukiran
